@@ -1,6 +1,6 @@
 # Sacraments #
 
-###Version alpha
+### Version alpha
 
 Aplicación en proceso realizada en dart. 
 
